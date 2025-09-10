@@ -27,7 +27,7 @@ public class EstructuraSwitchIncognita {
             case 'c': System.out.println("c");
             case 'A': System.out.println("65");
             case 100: System.out.println("Imprime 65 y el de abajo porque no hay break");
-            case 92: System.out.println("Ya sabemos que las letras son nÃºmeros en ASCII");
+            case 92: System.out.println("Ya sabemos que las letras son números en ASCII");
         }
     }
 }

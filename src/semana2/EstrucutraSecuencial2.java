@@ -16,9 +16,9 @@ public class EstrucutraSecuencial2 {
         // Declarar variables
         double numero1, numero2, suma;
         // Ingresar los nÃºmeros
-        System.out.println("NÃºmero 1: ");
+        System.out.print("Número 1: ");
         numero1 = teclado.nextDouble();
-        System.out.println("NÃºmero 2: ");
+        System.out.print("Número 2: ");
         numero2 = teclado.nextDouble();
         // Calcular la suma
         suma = numero1 + numero2;

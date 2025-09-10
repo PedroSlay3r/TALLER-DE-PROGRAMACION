@@ -6,7 +6,7 @@ public class EstructuraSwitchSimpleAgrupado {
         int scoreNPS = 9;
         String descripcion = "";
 
-        // CÃ³digo switch no factorizado/simplificado
+        // Código switch no factorizado/simplificado
         /*switch (scoreNPS) {
             case 0:
             case 1:
@@ -27,7 +27,7 @@ public class EstructuraSwitchSimpleAgrupado {
                 break;
         }*/
         
-        // CÃ³digo switch factorizado/simplificado
+        // Código switch factorizado/simplificado
         switch (scoreNPS) {
             case 0, 1, 2, 3, 4, 5, 6:
                 System.out.println("Detractor");

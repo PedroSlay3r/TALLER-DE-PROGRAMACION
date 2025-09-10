@@ -6,7 +6,7 @@ public class EstructuraCondicionalDoble {
 
     public static void main(String[] args) {
         System.out.println("======================");
-        System.out.println("PROGRESIÃ“N ARITMÃ‰TICA");
+        System.out.println("PROGRESIÓN ARITMÉTICA");
         System.out.println("======================");
         Scanner teclado = new Scanner(System.in);
         int n1, n2, n3;
@@ -18,11 +18,11 @@ public class EstructuraCondicionalDoble {
         n3 = teclado.nextInt();
         if (n2 - n1 == n3 - n2) {
             System.out.println("============================");
-            System.out.println("ES UNA PROGRESIÃ“N ARITMÃ‰TICA");
+            System.out.println("ES UNA PROGRESIÓN ARITMÉTICA");
             System.out.println("============================");
         } else {
             System.out.println("================================");
-            System.out.println("NO ES UNA PROGRESIÃ“N ARITMÃ‰TICA");
+            System.out.println("NO ES UNA PROGRESIÓN ARITMÉTICA");
             System.out.println("================================");
         }
         teclado.close();

@@ -12,7 +12,7 @@ public class EstructuraSwitchASCII {
         int n;
         Scanner teclado = new Scanner(System.in);
 
-        System.out.print("Ingresa tu nÃºmero: ");
+        System.out.print("Ingresa tu número: ");
         n = teclado.nextInt();
         
         char caracter = (char) n;

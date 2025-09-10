@@ -8,7 +8,7 @@ public class EstructuraSwitchLambda {
 
         // Para mostrar el título
         System.out.println("==============================");
-        System.out.println("     PUNTAJE DE EVALUACIÓN    ");
+        System.out.println("     PUNTAJE DE EVALUACI�N    ");
         System.out.println("==============================");
 
         // Para definir el scanner teclado
